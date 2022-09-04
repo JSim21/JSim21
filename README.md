@@ -7,4 +7,4 @@ A few things about myself
 - 
 # Skills
 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java)]
+[My Skills](https://skillicons.dev/icons?i=c,java)
