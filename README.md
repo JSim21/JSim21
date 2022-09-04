@@ -5,5 +5,5 @@ Welcome to my profile!
 A few things about myself
 - Hardworking
 # Skills
-Programming Languages <br>
+Programming Languages <br><br>
 ![My Skills](https://skillicons.dev/icons?i=c,java)
